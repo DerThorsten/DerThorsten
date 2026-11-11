@@ -43,4 +43,4 @@ Senior software engineer & software architect with background in physics and a P
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/band-dark.svg"><img alt="" src="assets/band-light.svg" width="100%"></picture>
 
-<sub>Numbers as of 2026-11-11. Drawn in the design of my website.</sub>
+<sub>Numbers as of 2026-11-11.</sub>
