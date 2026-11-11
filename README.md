@@ -7,8 +7,9 @@ Senior software engineer & software architect with background in physics and a P
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg"><img alt="Technologies" src="assets/tech-light.svg" width="100%"></picture>
 
 <p>
-  <a href="https://scholar.google.com/citations?user=zoHhaQ4AAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-0-dark.svg"><img alt="Google Scholar" src="assets/link-0-light.svg" height="44"></picture></a>
-  <a href="https://emscripten-forge.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-1-dark.svg"><img alt="emscripten-forge" src="assets/link-1-light.svg" height="44"></picture></a>
+  <a href="https://www.linkedin.com/in/thorsten-beier-95b121189/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-0-dark.svg"><img alt="LinkedIn" src="assets/link-0-light.svg" height="44"></picture></a>
+  <a href="https://scholar.google.com/citations?user=zoHhaQ4AAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-1-dark.svg"><img alt="Google Scholar" src="assets/link-1-light.svg" height="44"></picture></a>
+  <a href="https://emscripten-forge.org"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-2-dark.svg"><img alt="emscripten-forge" src="assets/link-2-light.svg" height="44"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/band-dark.svg"><img alt="" src="assets/band-light.svg" width="100%"></picture>
